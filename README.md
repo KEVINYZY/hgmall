@@ -1,4 +1,4 @@
-# hgmall
+zd# hgmall
 使用springboot集成shiro和redis，搭建了电商网站，实现基本的购物功能，留言功能，会员功能，店铺功能，帮助功能，物流功能。
 ## 一：导入数据
 导入sql文件
